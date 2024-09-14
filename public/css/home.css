@@ -1,0 +1,22 @@
+
+button
+{
+ background-color:black;
+ color: white;
+ width:200px;
+ height:50px;
+ margin-top:20px;
+}
+input
+{
+ width:800px;
+ height:50px;
+}
+.container{
+    margin-left:400px;
+}
+.sect
+{
+ display: flex;
+ flex-direction: row;
+}

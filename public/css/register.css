@@ -1,0 +1,53 @@
+.container{
+    border: 1px solid black;
+    padding: 50px;
+    margin: 50px;
+    background-color: white;
+}
+body{
+    background-color: white;
+}
+h1{
+    margin:50px 0px 0px 50px;
+}
+.alert-success
+{
+     padding: 20px;
+     background-color: #41d41c;
+     color: white;
+}
+
+.alert-error {
+     padding: 20px;
+     background-color: #f44336;
+     color: white;
+   }
+
+.closebtn {
+   margin-left: 15px;
+   color: white;
+   font-weight: bold;
+   float: right;
+   font-size: 22px;
+   line-height: 20px;
+   cursor: pointer;
+   transition: 0.3s;
+    }
+
+ .closebtn:hover {
+     color: black;
+   }
+  
+ .login-link{
+    background-color: black;
+    color:white;
+    padding: 5px 20px 8px 20px;
+    margin:-65px 0px 0px 100px;
+    border: 1px solid black;
+ }  
+ .login-link:hover{
+
+    background-color: white;
+    color:black;
+    border: 1px solid black;
+ }
